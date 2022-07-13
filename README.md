@@ -10,4 +10,4 @@ This repo contains all the code forked from a Snipcart tutorial with Hugo, a bla
 Questions? Drop a comment on the post.
 
 TODO: 
- - refactor partial for (hu)[go's json capabilities] (https://gobyexample.com/json)
+ - refactor partial for (hu)[go's json capabilities](https://gobyexample.com/json)
