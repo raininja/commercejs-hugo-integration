@@ -8,3 +8,6 @@ This repo contains all the code forked from a Snipcart tutorial with Hugo, a bla
 > See the inapplicable live demo: [Hugo + Snipcart demo store](http://snipcart-hugo.netlify.com/)
 
 Questions? Drop a comment on the post.
+
+TODO: 
+ - refactor partial for (hu)[go's json capabilities] (https://gobyexample.com/json)
